@@ -1,0 +1,5 @@
+﻿  Source.cpp
+e:\projects\projekt 1\thegameoflife\thegameoflife\source.cpp(109): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+e:\projects\projekt 1\thegameoflife\thegameoflife\source.cpp(298): warning C4717: 'esential': recursive on all control paths, function will cause runtime stack overflow
+  TheGameOfLife.vcxproj -> E:\Projects\projekt 1\TheGameOfLife\Debug\TheGameOfLife.exe
+  TheGameOfLife.vcxproj -> E:\Projects\projekt 1\TheGameOfLife\Debug\TheGameOfLife.pdb (Full PDB)
